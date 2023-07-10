@@ -22,6 +22,10 @@ body::before{
     justify-content: center;
 }
 
+.cabecalho .logo {
+    width: 250px;
+}
+
 .selecao-de-personagens {
     display: flex;
     align-items: center;
